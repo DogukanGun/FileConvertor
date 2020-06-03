@@ -32,7 +32,7 @@ Format types must be like that:<br>
 <h3>"-key":</h3>
 <p>Semicolon must be used while key attribute is being created. </p>
 <h3>"-xsd":</h3>
-<p>Xsd file doesn't need path but you have move xsd file the folder which includes project files</p>
+<p>Xsd file doesn't need path but you have to move xsd file the folder which includes project files</p>
 </div>
 
 <h2>Install<h2>
